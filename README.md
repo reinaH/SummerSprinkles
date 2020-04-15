@@ -8,6 +8,4 @@ https://reinah.github.io/SummerSprinkles/
 - written/Blog.html : Blog post corresponding with app.html
 - written/GettingStarted.html : Daily.co's Getting Started Docs with a personal spin
 
-note: I wanted to use readme because that is what Daily.co uses for its documentation needs but given that there is no free tier of the product I decided to make it available in this manner.
-
-
+Note: I wanted to use readme because that is what Daily.co uses for its documentation needs but given that there is no free tier of the product I decided to make it available in this manner.
