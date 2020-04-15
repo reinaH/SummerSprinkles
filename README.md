@@ -1,4 +1,4 @@
-#Daily.co Project Implementing a "Raise Your Hand" Feature
+# Daily.co Project Implementing a "Raise Your Hand" Feature
 
 ## Hosting
 https://reinah.github.io/SummerSprinkles/
