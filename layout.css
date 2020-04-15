@@ -1,0 +1,25 @@
+/*note: layout made with only desktop view in mind for demo purposes*/
+/* not guaranteed to view well in mobile/tablet*/
+
+
+.start {
+    float:left;
+    width: 45%;
+    padding: 50px;
+
+}
+
+.main-section {padding:50px;}
+
+.guest-section {padding-top: 50px;}
+
+.daily-view-parent {
+    float:left;
+    width: 50%;
+    height: 100%;
+    padding:50px;
+}
+
+.hide {
+    visibility: hidden;
+}
